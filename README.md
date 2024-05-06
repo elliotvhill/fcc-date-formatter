@@ -1,2 +1,2 @@
-# fcc-date-formatter
-freeCodeCamp's Date Object lesson
+# Date Formatter
+Following along on freeCodeCamp's _[Date Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-the-date-object-by-building-a-date-formatter)_ lesson.
